@@ -1,0 +1,1 @@
+update set nombre="taylor" where ide_user = 45678;

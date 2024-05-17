@@ -1,0 +1,1 @@
+select * from uorganizaciones where ide_org = 6789;

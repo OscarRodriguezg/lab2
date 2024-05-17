@@ -1,0 +1,1 @@
+delete from usuario where ide=1234;
